@@ -231,7 +231,7 @@ ul {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.nav_links {
 		text-align: left;
 	}
@@ -355,7 +355,7 @@ header {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 .nav_links li a {
 	font-size: 25px;
 	line-height: 40px;
@@ -415,7 +415,7 @@ header {
 	padding-top: 0px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	
 	.about-page-container {
 		display: flex;
@@ -769,7 +769,7 @@ h4 {
 	
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.gallery {
 		display: block;
 	}
@@ -937,7 +937,7 @@ footer {
 	transition: all 0.3s ease 0s;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.descriptor {
 		font-size: 25px;
 		text-align: left;
@@ -988,7 +988,7 @@ footer {
 	width: 900px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.freetitle {
 		height: 100px;
 		width: 300px;
@@ -1014,7 +1014,7 @@ footer {
 	width: 1020px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.msp_l_1 {
 	height: 385px;
 	width: 500px;
@@ -1031,7 +1031,7 @@ footer {
 	padding-top: 50px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.hmlogo {
 		height: 250px;
 		width: 400px;
@@ -1067,7 +1067,7 @@ footer {
 	padding-top: 50px;
 }
 	
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.nobdy {
 		height: 125px;
 		width: 400px;
@@ -1108,7 +1108,7 @@ footer {
 	width: 500px;
 }
 	
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.nbr_logo {
 		height: 110px;
 		width: 300px;
@@ -1172,7 +1172,7 @@ footer {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.rekord {
 	height: 80px;
 	width: 400px;
@@ -1344,7 +1344,7 @@ footer {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.gallery_illust {
 		display: block;
 	}
@@ -1437,7 +1437,7 @@ footer {
 	width: 700px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.bh {
 		height: 350px;
 		width: 400px;
@@ -1483,7 +1483,7 @@ footer {
 	width: 700px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.mandys {
 		height: 550px;
 		width: 400px;
@@ -1524,7 +1524,7 @@ footer {
 	width: 80%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.page_intro_info {
 		font-size: 25px;
 		margin-top: 1100px;
@@ -1579,7 +1579,7 @@ video {
 	padding: 30px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.wrapper_video_gal {
 		margin: 0 auto;
 		padding: 0;
@@ -1791,7 +1791,7 @@ button[type="submit"]:hover{
 	align-items: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.web_other2 {
 		display: flex;
 		align-content: center;
@@ -1864,7 +1864,7 @@ button[type="submit"]:hover{
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.sketches {
 		width: 450px;
 		height: 270px;
