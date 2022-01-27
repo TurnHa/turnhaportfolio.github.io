@@ -1,0 +1,70 @@
+  div {
+    width: 90%;
+    max-width: 90em;
+    margin: 0 auto;
+    margin: 0 em;
+    background: #282828;
+    color: #282828;
+    }
+
+    span {
+		padding: 0em;
+		border: 1em;
+		background: #282828;
+		color: #282828;
+		border-color: #282828;
+		margin: 3em 3em;
+		}
+
+  h1 {
+    color: #eee;
+    font-size: 3.5em;
+    font-family: BodoniSvtyTwoITCTT-Book;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }
+
+  h2 {
+    color: #ff6600;
+    font-size: 3.5em;
+    font-family: Baskerville;
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }
+
+   h3 {
+    color: #eee;
+    font-size: 1em;
+    font-family: Baskerville;
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }
+
+  p {
+    font-size: 1.5em;
+    font-family: BodoniSvtyTwoITCTT-Book;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }
+
+   h4 {
+    font-size: 2em;
+    font-family: BodoniSvtyTwoITCTT-Book;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }
+
+ h5 {
+    font-size: 2em;
+    font-family: BodoniSvtyTwoITCTT-Book;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1 em;
+  }

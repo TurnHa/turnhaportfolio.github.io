@@ -1,0 +1,75 @@
+body {
+	background: #fff;
+	}
+	
+.center-content {
+	text-align: center;
+	}
+	
+figure {
+	float: none;
+	display: inline-block;
+	background: #fff;
+	margin: 1em;
+	}
+
+figcaption {
+	font-family: monospace;
+	text-align: center;
+	margin: 1em 0 0;
+	}
+
+.square {
+	width: 8em;
+	height: 8em;
+	background: #f60;
+	}
+	
+.circle {
+	background: #9f9;
+	border-radius: 50%;
+	}
+	
+.triangle {
+	width: 0; /* no width */
+	height: 0; /* no height */
+	line-height: 0;
+	border: 4em dashed transparent; /* no line-height */
+	border-top: 0;
+	/* border-top-color: #666; */
+	/* border-right-color: #999; */
+	border-bottom: 8em solid #06f;
+	/* border-left-color: #fff; */
+	}
+	
+/* --- heart --- */
+
+.heart {
+	background: #fff;
+	padding: 1.5em;
+	border: 1px dashed #000;
+	}
+
+.heart .circle {
+	float: left;
+	background: #f00;
+	background: linear-gradient(to bottom, #fff, #f00 85%);
+	margin: 0 .5em;
+	}
+	
+.heart .circle:first-child {
+	margin-right: -1em;
+	}
+	
+	
+.heart .triangle {
+	position: relative;
+	top: -2.5em;
+	/* left: -.5em; */
+	border-width: 8em;
+	border-top: 7.5em solid #f00;
+	border-bottom: 0;
+	border-radius: 5em 5em 0 0;
+	clear: both;
+	margin: 0 auto -2.5em;
+	}
