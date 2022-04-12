@@ -231,9 +231,16 @@ ul {
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 971px) {
 	.nav_links {
-		text-align: left;
+		display: none;
+		flex-direction: row;
+		justify-content: space-around;
+		justify-content: space-between;
+	}
+	
+	.nav_links a {
+		font-size: 10px;
 	}
 	
 	
@@ -248,7 +255,7 @@ ul {
 	}
 	
 	h1 {
-		font-size: 90px;
+		font-size: 200px;
 		padding-left: 50px;
 	}
 	
@@ -256,11 +263,14 @@ ul {
 		padding-left: 0px;
 		margin: 0%;
 		align-items: center;
+		text-align: center;
 	}
 	
 	.wd {
-		font-size: 40px;
+		font-size: 100px;
 		align-items: center;
+		line-height: 200px;
+		padding-top: 100px;
 	}
 	
 	.more {
@@ -269,50 +279,53 @@ ul {
 	}
 
 	.bottom_nav1 {
-		padding-left: 90px;
 		padding-right: 60px;
+		padding-top: 200px;
 	}
 	
 	.abt {
 		display: flex;
 		flex-direction: row;
-		font-size: 30px;
+		font-size: 60px;
 	}
 	
 	.bottom_nav2 {
 		padding-left: 90px;
 		padding-right: 80px;
+		padding-top: 200px;
 	}
 	
 	.res {
 		display: flex;
 		flex-direction: row;
-		font-size: 30px;
+		font-size: 60px;
 	}
 	
 	.icons {
 		display: flex;
 		flex-direction: row;
-		padding: 10px;
+		padding: 70px;
 		width: 50px;
 		margin-top: 50px;
+		content-align: center;
+		padding-top: 200px;
 	}
 	
 	.email {
-		height: 80px;
-		width: 80px;
+		height: 200px;
+		width: 200px;
 		padding: 20px;
 	}
 	
 	.linkin {
-		height: 80px;
-		width: 80px;
+		height: 200px;
+		width: 200px;
 		padding: 20px;
 	}
 	
 	.instagram {
-		height: 80px;
-		width: 80px;
+		height: 200px;
+		width: 200px;
 		padding: 20px;
 	}
 	
