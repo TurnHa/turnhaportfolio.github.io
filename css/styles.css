@@ -989,6 +989,57 @@ footer {
 	
 }
 
+/*<! --- graphic design - social media ads layout -- >*/
+
+.wrapper_gal_sm {
+	max-width: 100rem;
+	padding: 2rem;
+	margin: 0 auto;
+	margin-bottom: 0;
+}
+
+.gallery_gal_sm {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.gallery_item_sm {
+	padding:0 11px 15px;
+}
+
+.sm_ads {
+	width: 400px;
+	height: 400px;
+}
+
+.wrapper_gal_fbb {
+	max-width: 100rem;
+	padding: 2rem;
+	margin: 0 auto;
+	margin-bottom: 0;
+}
+
+.gallery_gal_fbb {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.gallery_item_fbb {
+	padding:0 11px 15px;
+}
+
+.sm_fbb {
+	width: 1200px;
+	height: 500px;
+}
+
+
 /*<! --- graphic design - freeset usa layout -- >*/
 
 .freetitle {
