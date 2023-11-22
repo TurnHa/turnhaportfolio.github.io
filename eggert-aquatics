@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>newfed mortgage</title>
+	<link href="css/styles.css" rel="stylesheet" type="text/css">
+</head>
+	
+<body class="pages">
+	
+<header>
+	<nav>
+		<ul class="nav_links">
+			<li><a href="index.html"><b>home</b></a></li>
+			<li><a href="webdesign.html"><b>web design</b></a></li>
+			<li><a href="graphicdesign.html"><b>graphic design</b></a></li>
+			<li><a href="illustrations.html"><b>illustrations</b></a></li>
+			<li><a href="photography.html"><b>photography</b></a></li>
+		</ul>
+	</nav>
+</header>
+	
+	<img class="nfm" src="images/nfm-02.png" alt="mfg"/>
+
+	
+	<h4>eggert aquatics</h4>
+	
+	<div class="intro_descript">
+		<p class="descriptor">eggert aquatics is a swimming lessons business owned and operated by david & alexis eggert. i was responsible for creating social media content / ads, managing their social media platforms, and designing & maintaining their new website.</p>
+	</div>
+	
+	<div><h5><b>social media ad design</b></h5></div>
+
+	<div class="wrapper_gal">
+
+		<div class="gallery_gal">
+			
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board2-02.jpg" class="newfedads" alt="artgal"/></div>
+		
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board1-01.jpg" class="newfedads" alt="artgal"/></div>		
+			
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board3-03.jpg" class="newfedads" alt="artgal"/></div>
+				
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board4-04.jpg" class="newfedads" alt="artgal"/></div>	
+			
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board5-05.jpg" class="newfedads" alt="artgal"/></div>	
+			
+			<div class="gallery_item_9"><img src="images/NewFed_round6_board6-06.jpg" class="newfedads" alt="artgal"/></div>	
+					
+	  </div>
+	</div>
+	
+	<footer> 
+		<a href="#" class="gotopbtn"><img src="images/toparrow.png" class="arr"alt="arrow"/></a>
+	</footer>
+	
+	
+<script> </script>
+	
+</body>
+</html>
